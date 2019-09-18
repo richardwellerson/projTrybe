@@ -1,5 +1,4 @@
 #!/bin/bash
-#Eu sou Trybe e agora vou testar algumas coisas do Git/GitHub.
 
 MESSAGE=$*
 if [ -z $MESSAGE ]
